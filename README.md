@@ -22,7 +22,7 @@ SonarQube is an open-source platform designed for continuous inspection of code 
 Trivy is a comprehensive and lightweight open-source vulnerability scanner for container images. It specializes in detecting security vulnerabilities in the dependencies and packages within containerized applications. Trivy supports various container image formats and package managers, making it an essential tool for ensuring the security of containerized environments. Its fast and straightforward approach enables integration into CI/CD pipelines, helping to identify and address vulnerabilities early in the development process.
 
 **Step 1:**
-- Launch an Ubuntu-based (Ubuntu 22.04) EC2 instance on AWS.
+- Launch an Ubuntu-based (Ubuntu 22.04) **t2.large** EC2 instance on AWS.
 - Connect to the instance using SSH.
 
 **Step 2:**
