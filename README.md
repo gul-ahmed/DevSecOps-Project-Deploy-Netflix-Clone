@@ -25,7 +25,7 @@ Trivy is a comprehensive and lightweight open-source vulnerability scanner for c
 - Launch an Ubuntu-based (Ubuntu 22.04) EC2 instance on AWS.
 - Connect to the instance using SSH.
 
-**Step 1:**
+**Step 2:**
 - Update all the packages and then clone the code.
 - Clone your application's code repository onto the EC2 instance:
 ```
